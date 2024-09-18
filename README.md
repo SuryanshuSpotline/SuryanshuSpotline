@@ -9,7 +9,13 @@
 # Hi there, I'm Suryanshu Patnaik 👋
 
 ## 🚀 About Me
-
+- **Languages**: Java, Python, JavaScript, C/C++
+- **Frontend**: HTML5, CSS3, React, Angular
+- **Backend**: Node.js, Spring Boot
+- **Databases**: MySQL, MongoDB
+- **DevOps**: Docker, Jenkins, GitLab, GitHub, CI/CD, AWS
+- **Testing**: Robot Framework, Selenium
+- **Version Control**: Git, GitHub, GitLab
 
 <!---
 SuryanshuSpotline/SuryanshuSpotline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
