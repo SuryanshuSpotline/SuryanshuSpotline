@@ -34,7 +34,7 @@ I'm a passionate Software Engineer with a strong foundation in software developm
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuryanshuSpotline&show_icons=true&hide_border=true)
 
 ---
 
